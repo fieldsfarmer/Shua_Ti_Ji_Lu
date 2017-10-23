@@ -14,3 +14,5 @@
 714 Best Time to Buy and Sell Stock with Transaction Fee // interesting DP thinking!
 
 713 Subarray Product Less Than K //slide window!
+
+712 Minimum ASCII Delete Sum for Two Strings // DP!!
