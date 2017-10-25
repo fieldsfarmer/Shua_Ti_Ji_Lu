@@ -25,3 +25,5 @@
 10-25-2
 
 [Counting frequency of chars in a string using C++](https://github.com/fieldsfarmer/coding_problems/blob/master/counting_frequency.cpp)
+
+695 Max Area of Island // The solution given is interesting
