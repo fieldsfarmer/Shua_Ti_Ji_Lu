@@ -31,4 +31,7 @@
 10-26-4
 
 697 Degree of an Array // rewrite in c++
+
 692 Top K Frequent Words // similar to frequency of chars in a string
+
+686 Repeated String Match // Ad Hoc method!
