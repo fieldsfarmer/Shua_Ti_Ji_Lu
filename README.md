@@ -34,7 +34,7 @@
 
 692 Top K Frequent Words // similar to frequency of chars in a string
 
-686 Repeated String Match // Ad Hoc method!
+686 Repeated String Match // Ad Hoc method!  string::npos !!
 
 10-27-5
 
