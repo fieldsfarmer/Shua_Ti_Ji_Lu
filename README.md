@@ -35,3 +35,7 @@
 692 Top K Frequent Words // similar to frequency of chars in a string
 
 686 Repeated String Match // Ad Hoc method!
+
+10-27-5
+
+459 Repeated Substring Pattern // Ad Hoc method!
