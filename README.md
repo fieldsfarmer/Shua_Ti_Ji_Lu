@@ -41,3 +41,8 @@
 459 Repeated Substring Pattern // Ad Hoc method!
 
 687 Longest Univalue Path // think!!
+
+10-30-1
+
+443 String Compression // do it in place!!
+
