@@ -54,3 +54,7 @@
 
 410 Split Array Largest Sum // Another abstract first bad edition!
 
+11-02-4
+
+410 Split Array Largest Sum // DP!!
+
