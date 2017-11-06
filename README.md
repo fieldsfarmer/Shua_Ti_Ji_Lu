@@ -58,3 +58,6 @@
 
 410 Split Array Largest Sum // DP!!
 
+11-06-1
+
+720 Longest Word in Dictionary // don't overthink!
